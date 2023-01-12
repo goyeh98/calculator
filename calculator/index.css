@@ -1,19 +1,18 @@
-.container{
-    width: 30%;
-    background-color: rgb(177, 32, 32);
-    border-radius: 20px;
+.container {
+  width: 30%;
+  background-color: #23252c;
+  border-radius: 20px;
 }
 
-.row-custom{
-    background-color: rgb(61, 17, 17);
-    border-radius: 20px;
+.row-custom {
+  background-color: #2a2d35;
+  border-radius: 20px;
 }
 
-.button{
-    background-color: rgb(177, 32, 32);
-    width: 40px;
+.button {
+  background-color: #23252c;
+  width: 40px;
 }
-
 
 /* .container{
     display: flex;
